@@ -1,8 +1,9 @@
 # Open Computer Use
 
-An open-source alternative to Anthropic's Computer Use, leveraging Vision Language Models for desktop automation and RPA (Robotic Process Automation).
-
 ![System Architecture](https://github.com/taham655/open-computer-use/blob/main/process.png)
+
+An open-source alternative to Anthropic's Computer Use, leveraging Vision Language Models for desktop automation and RPA (Robotic Process Automation).
+```Note: Open Computer Use only works on macOS at the moment, others will be supported in near future.```
 
 ## 🤖 Overview
 
