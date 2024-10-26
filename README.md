@@ -40,7 +40,7 @@ Open Computer Use is a framework that enables AI to interact with your computer 
 ## 📋 Prerequisites
 
 - Python 3.x
-- OpenAI API key (for GPT-4 Vision)
+- Foundation Model API key (e.g. Gemini, OpenAI)
 
 ## 🛠️ Installation
 
