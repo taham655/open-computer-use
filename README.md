@@ -46,8 +46,8 @@ Open Computer Use is a framework that enables AI to interact with your computer 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone [<repository-url>](https://github.com/taham655/open-computer-use.git)
+cd open-computer-use
 ```
 
 2. Install required dependencies:
