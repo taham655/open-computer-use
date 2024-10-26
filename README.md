@@ -100,10 +100,7 @@ The application uses LangGraph's StateGraph to manage the flow:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## ⚠️ Disclaimer
 
-This is an open-source alternative to commercial computer control solutions. Use responsibly and ensure compliance with your system's security policies.
+This is in no way a complete product. It's still in development and has a lot of bugs, but I'm working on it :)
