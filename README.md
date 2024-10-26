@@ -55,7 +55,7 @@ cd open-computer-use
 pip install langchain-openai langgraph pyautogui python-dotenv
 ```
 
-3. Create a `.env` file in the project root and add your OpenAI API key:
+3. Create a `.env` file in the project root and add your Foundation Model API key:
 ```
 OPENAI_API_KEY=your_api_key_here
 ```
