@@ -2,7 +2,7 @@
 
 An open-source alternative to Anthropic's Computer Use, leveraging Vision Language Models for desktop automation and RPA (Robotic Process Automation).
 
-![System Architecture](https://raw.githubusercontent.com/yourusername/opencomputeruse/main/docs/architecture.png)
+![System Architecture](https://github.com/taham655/open-computer-use/blob/main/process.png)
 
 ## 🤖 Overview
 
