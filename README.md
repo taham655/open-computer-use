@@ -24,7 +24,7 @@ Open Computer Use is a framework that enables AI to interact with your computer 
 - **Automated Actions**: Performs keyboard and mouse actions programmatically
 - **State Management**: Maintains conversation context and screen state
 - **Error Handling**: Robust error handling for image processing and LLM interactions
-- **Modular Design**: Built using LangGraph's node-based architecture
+- **Modular Design**: Built using LangGraph (I'm a huge fan :D)
 
 ## 🔄 Process Flow
 
